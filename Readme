@@ -14,11 +14,13 @@ For example:
 The time for one complete cycle is called the period.
 
 $$
-\boxed{\text{Period} = \frac{1}{\text{Frequency}}}
+T = \frac{1}{f}
 $$
 
-So, for a 1 kHz PWM signal:
+For example, for a frequency of 1 kHz:
 
-$$ Period = \frac{1}{1000}=0.001s=1ms $$
+$$
+T = \frac{1}{1000} = 0.001\text{ s} = 1\text{ ms}
+$$
 
 Therefore, each cycle lasts 1 millisecond.
