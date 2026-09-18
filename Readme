@@ -13,7 +13,9 @@ For example:
 
 The time for one complete cycle is called the period.
 
-$$ \boxed{Period = \frac{1}{Frequency}} $$
+$$
+\boxed{\text{Period} = \frac{1}{\text{Frequency}}}
+$$
 
 So, for a 1 kHz PWM signal:
 
