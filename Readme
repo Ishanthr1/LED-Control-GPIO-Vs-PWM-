@@ -1,0 +1,22 @@
+What Is Pulse-Width Modulation (PWM)?
+
+Pulse-Width Modulation (PWM) is a technique used by a microcontroller to control the amount of power delivered to a device by rapidly switching a digital signal ON and OFF.
+Instead of producing a continuously changing voltage, PWM produces a series of square-wave pulses.
+
+1. Frequency
+Frequency tells us how many times the signal repeats every second.
+
+For example:
+
+1 kHz = 1,000 cycles per second
+10 kHz = 10,000 cycles per second
+
+The time for one complete cycle is called the period.
+
+$$ \boxed{Period = \frac{1}{Frequency}} $$
+
+So, for a 1 kHz PWM signal:
+
+$$ Period = \frac{1}{1000}=0.001s=1ms $$
+
+Therefore, each cycle lasts 1 millisecond.
